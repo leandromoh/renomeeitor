@@ -23,29 +23,29 @@ O objetivo desse manual é descrever como utilizar as principais funcionalidades
 
 1. Pasta selecionada
 2. Tipos de arquivos permitidos
-  1. 1.Selecionando um tipo especifico por vez
-  2. 2.Selecionando todos os tipos de arquivo ao mesmo tempo
+    1. Selecionando um tipo especifico por vez
+    2. Selecionando todos os tipos de arquivo ao mesmo tempo
 3. Substituição de trechos &quot;De/Para&quot;
 4. Deixar nomes dos arquivos
-  1. 1.Todo maiúsculo
-  2. 2.Todo minúsculo
-  3. 3.Primeira letra de cada palavra em maiúsculo
-  4. 4.Primeira letra do nome do arquivo em maiúsculo
+    1. Todo maiúsculo
+    2. Todo minúsculo
+    3. Primeira letra de cada palavra em maiúsculo
+    4. Primeira letra do nome do arquivo em maiúsculo
 
 **Avançado**
 
-1. Manipulação avançada de trechos no nome do arquivo
-  1. 1.Apagar do nº ao mº caracter
-  2. 2.Acrescentar trecho após o nº caracter
-  3. 3.Acrescentar trecho no inicio do nome do arquivo
-  4. 4.Acrescentar trecho no fim do nome do arquivo
-  5. 5.Remover ocorrências de um trecho no nome do arquivo
-2. Extrair Nomes a partir de um bloco de notas
+5. Manipulação avançada de trechos no nome do arquivo
+    1. Apagar do nº ao mº caracter
+    2. Acrescentar trecho após o nº caracter
+    3. Acrescentar trecho no inicio do nome do arquivo
+    4. Acrescentar trecho no fim do nome do arquivo
+    5. Remover ocorrências de um trecho no nome do arquivo
+6. Extrair Nomes a partir de um bloco de notas
 
 **Pré-Visualização**
 
-1. Como funciona a pré-visualização
-2. Salvando uma lista
+7. Como funciona a pré-visualização
+8. Salvando uma lista
 
 
 **BÁSICO**
@@ -60,7 +60,7 @@ Nesse campo o usuário deve selecionar a pasta onde estão os arquivos que ele d
 
 É nesse campo que definimos qual tipo de arquivo o Renomeeitor procurará dentro da pasta selecionada. Por exemplo, se colocarmos no campo o valor &quot;mp3&quot; o Renomeeitor procurará apenas arquivos mp3 dentro da pasta selecionada, e é assim com qualquer outro tipo de arquivo (jpg, rar, pdf, exe, txt, etc...).
 
-        **2.2 -**  **Selecionando todos os tipos de arquivo ao mesmo tempo**
+**2.2 - Selecionando todos os tipos de arquivo ao mesmo tempo**
 
 Para selecionar todos os tipos de arquivo ao mesmo tempo é necessário colocar um asterisco ( \* ) como valor do campo. Fazendo isto, o Renomeeitor passará a ignorar o tipo de cada arquivo e passará a &quot;enxergar&quot; todos os arquivos encontrados dentro da pasta selecionada pelo usuário.
 
