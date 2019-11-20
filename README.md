@@ -3,7 +3,7 @@
 
 # Importante
 
-Este software não é mantido e foi criado quando eu, Leandro, estava iniciando no mundo da programação (2012) e portanto não faz uso de padrões de projeto ou boas praticas de programação, coisas que desconhecia na época.
+Este software não é mantido e foi criado quando eu estava iniciando no mundo da programação (2012) e portanto não faz uso de padrões de projeto ou boas praticas de programação, coisas que desconhecia na época.
 
 # Motivação do projeto 
 
